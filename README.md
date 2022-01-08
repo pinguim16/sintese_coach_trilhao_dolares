@@ -1,5 +1,4 @@
 ## Síntese do Livro: O coach de um trilhão de dólares: O manual de liderança do Vale do Silício
-Síntese do livro O coach de um trilhão de dólares: O manual de liderança do Vale do Silício.
 
 Começo dizendo que a leitura do livro é extremamente agradável e envolvente, quando se começa a ler não se tem vontade 
 de parar, além de possuir lições bem relevantes para uma liderança sólida e humana. 
