@@ -9,7 +9,7 @@ E tenho de concorda que o livro superou e muito minhas expectativas em relação
 <img src="img/capa_livro.png" alt="Capa livro" width="500" /> 
 </a>
 
-Caso deseje comprar o livro na imagem acima possui o link para compra. 
+<em>Caso deseje comprar o livro na imagem acima possui o link para compra. </em>
 
 ## Capítulo 1 - O Caddie e o Ceo
 
