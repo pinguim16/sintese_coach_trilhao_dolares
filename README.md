@@ -6,7 +6,7 @@ de parar, além de possuir lições bem relevantes para uma liderança sólida e
 E tenho de concorda que o livro superou e muito minhas expectativas em relação a esses pontos.
 
 <a target="_blank"  href="https://www.amazon.com.br/gp/product/8542216946/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542216946&linkCode=as2&tag=mygit0b-20&linkId=e61741e7b6d4bffb45d6f7a357bf5484">
-<img src="img/capa_livro.png" alt="Capa livro" width="500" /> 
+<img src="img/capa_livro.png" alt="Capa livro" width="500" align="center" /> 
 </a>
 
 <em>Caso deseje comprar o livro na imagem acima possui o link para compra. </em>
