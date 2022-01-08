@@ -12,17 +12,17 @@ E tenho de concordar que o livro superou e muito minhas expectativas em relaçã
 
 ## Capítulo 1 — O Caddie e o Ceo
 
-<p>O primeiro capítulo como uma homenagem a Bill Campbell, todo o seu trabalho com vários CEOS do Vale do Silício, 
+<p>O primeiro capítulo é uma homenagem a Bill Campbell e todo o seu trabalho com vários CEOS do Vale do Silício, 
 mas um ponto importante e de muito destaque nesse capítulo foi: Bill como um coach não focava apenas nos CEOS 
-ou nas pessoas importantes com o qual trabalhava, mas sim na equipe para que todos possuíssem o mesmo nível e 
-pudessem evoluir por igual.</p>
+ou nas pessoas importantes com o qual ele trabalhava, mas sim nas equipes para que todos possuissem o mesmo nível de 
+conhecimento e pudessem evoluir por igual.</p>
 <p>Os fundamentos de coach do Bill vieram do futebol americano, onde passou parte de sua vida envolvido, 
 começando como jogador, tornando mais tarde técnico assistente e em sequência técnico. Como jogador era reconhecido 
 por sua garra contra os adversários que eram maiores que ele, mas isso não o impedia de jogar de igual para igual com 
 os mesmos, sempre que caia se levantava novamente com mais garra para enfrentá-los.</p>
-<p>Como treinador não teve muito sucesso, pelos times que passou, mas ficou reconhecido por sua compaixão com os atletas, 
-pois se importava mais com a pessoa que o jogador/atleta. Ou seja, o atleta deveria ser bem-sucedido na sua vida pessoal,
- profissional que em campo.</p>
+<p>Como treinador não teve muito sucesso, mas pelos times que passou ficou reconhecido por sua compaixão com os atletas, 
+pois se importava mais com a pessoa do que o profissional/atleta. Ou seja, o atleta deveria ser bem-sucedido na sua vida pessoal,
+ mais do que no campo.</p>
 
 Frases de destaque para mim, conforme o meu momento atual de vida (Vou deixar em negrito as que achei o que 
 mais impacto para mim):
