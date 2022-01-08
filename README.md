@@ -6,7 +6,8 @@ de parar, além de possuir lições bem relevantes para uma liderança sólida e
 E tenho de concorda que o livro superou e muito minhas expectativas em relação a esses pontos.
 
 <a target="_blank"  href="https://www.amazon.com.br/gp/product/8542216946/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542216946&linkCode=as2&tag=mygit0b-20&linkId=e61741e7b6d4bffb45d6f7a357bf5484">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8542216946&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=mygit0b-20"></a>
+<img src="img/capa_livro.png" alt="Capa livro" width="500" /> 
+</a>
 
 ##Capítulo 1 - O Caddie e o Ceo
 
