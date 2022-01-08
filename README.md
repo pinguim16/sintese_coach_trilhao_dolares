@@ -272,7 +272,7 @@ entenda sua família e, quando coisas ruins acontecerem, dê as caras.
 
 - Para ter sucesso, as empresas precisam ter equipes que trabalhem juntas como comunidades, nas quais os membros integrem seus interesses e deixem de lado as diferenças para serem individual e coletivamente obcecados por aquilo que é bom e correto para empresa. Como isso não acontece de maneira natural entre grupos de pessoas, especialmente pessoas ambiciosas e de alta performance, precisamos de alguém  que faça o papel de coach, de coach de equipe, para que aconteça. Qualquer empresa que queira ser bem-sucedida em um momento em que a tecnologia já mandou todos os setores e a maioria dos aspectos da vida do consumidor, no qual a velocidade e a inovação são fundamentais, deve ter o coaching de equipe como parte de sua cultura. E isso é especialmente verdadeiro nos níveis mais altos; as equipes executivas devem ter um coach para ter o melhor desempenho.
 
-
+<br><br>
 
 <em>Então pessoal, minha síntese normalmente é uma inspiração que senti em cada trecho do livro e fui retirando algumas frases que me marcaram muito.</em>
 <em>Recomendo fortemente a leitura do livro, pois além do mesmo, ajudar na aprendizagem profissional, ajudará muito na aprendizagem pessoal.</em>
