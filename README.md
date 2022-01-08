@@ -12,7 +12,7 @@ E tenho de concordar que o livro superou e muito minhas expectativas em relaçã
 
 ## Capítulo 1 — O Caddie e o Ceo
 
-<p>Temos o primeiro capítulo como uma homenagem a Bill Campbell, todo o seu trabalho com vários CEOS do Vale do Silício, 
+<p>O primeiro capítulo como uma homenagem a Bill Campbell, todo o seu trabalho com vários CEOS do Vale do Silício, 
 mas um ponto importante e de muito destaque nesse capítulo foi: Bill como um coach não focava apenas nos CEOS 
 ou nas pessoas importantes com o qual trabalhava, mas sim na equipe para que todos possuíssem o mesmo nível e 
 pudessem evoluir por igual.</p>
