@@ -9,7 +9,9 @@ E tenho de concorda que o livro superou e muito minhas expectativas em relação
 <img src="img/capa_livro.png" alt="Capa livro" width="500" /> 
 </a>
 
-##Capítulo 1 - O Caddie e o Ceo
+Caso deseje comprar o livro na imagem acima possui o link para compra. 
+
+## Capítulo 1 - O Caddie e o Ceo
 
 <p>Temos o primeiro capítulo como uma homenagem a Bill Campbell, todo o seu trabalho com vários CEOS do Vale do Silício, 
 mas um ponto importante e de muito destaque nesse capítulo foi: Bill como um coach não focava apenas nos CEOS 
@@ -37,7 +39,7 @@ pelas sugestões de outros.
 um gestor experiente quanto um coach atencioso.**
 
 
-##Capítulo 2 - Seu título faz de você um gestor. Seu pessoal faz de você um líder.
+## Capítulo 2 — Seu título faz de você um gestor. Seu pessoal faz de você um líder.
 
 Nesse capítulo, Bill nos ensina como ser líder, como devemos tratar corretamente cada perfil 
 que a equipe possui e assim o líder conquista a confiança do seu time para evoluírem cada vez mais.
@@ -83,13 +85,13 @@ a ser melhores".
 a melhor maneira de ajudar as pessoas a ser mais eficazes e crescer.
 
 
-###Gestão / Liderança
+### Gestão / Liderança
 - Você está orientando / dando coaching a seu pessoal?
 - Você está eliminando os ruins ?
 - Você está se esforçando para contratar?
 - Você consegue que seu pessoal realiza feitos heroicos?
 
-###Inovação (melhores práticas)
+### Inovação (melhores práticas)
 - Você está sempre andando para frente... pensando em como melhorar continuamente?
 - Você está constantemente avaliando novas tecnologias, novos produtos e novas práticas?
 - Você se avalia comparando-se aos melhores do ramo / mundo.
@@ -131,7 +133,7 @@ Todos os outros componentes estão a serviço do produto.
 sabendo como tirar o máximo proveito das pessoas mais desafiadoras, focando a excelência do produto e tratando bem os funcionários 
 - demitidos.
 
-##Capitulo 3 — Construa um envoltório de confiança
+## Capitulo 3 — Construa um envoltório de confiança
   Nesse capítulo passamos por vários pontos que onde Bill, nos ensina através de exemplo ganhar a confiança do time com 
   várias situações diferentes.
 
@@ -182,7 +184,7 @@ e valorizam mais quando os outros fazem o mesmo.
 - Identidade plena à frente e no centro — As pessoas são mais eficazes quando podem ser totalmente autenticas e levar sua
 identidade plena no trabalho.
 
-##Capitulo 4 - A equipe em primeiro lugar
+## Capitulo 4 - A equipe em primeiro lugar
 
 - Você não consegue fazer nada sem um time.
 
@@ -238,7 +240,7 @@ quando você conhece as pessoas e se importa com elas.
 
 - Resolva a equipe e você resolverá o problema.
 
-##Capítulo 5 - O poder do amor
+## Capítulo 5 - O poder do amor
 
 - O que significa que você deve liderar com afeto, mas saber que talvez tenha que se esforçar um pouco mais para 
 construir sua reputação de competência.
@@ -267,10 +269,11 @@ entenda sua família e, quando coisas ruins acontecerem, dê as caras.
 
 - Papo de elevador — amar os colegas no local de trabalho pode ser desafiador, portanto, treine até isso tornar mais natural.
 
-##Capítulo 6 - O critério
+## Capítulo 6 - O critério
 
 - Para ter sucesso, as empresas precisam ter equipes que trabalhem juntas como comunidades, nas quais os membros integrem seus interesses e deixem de lado as diferenças para serem individual e coletivamente obcecados por aquilo que é bom e correto para empresa. Como isso não acontece de maneira natural entre grupos de pessoas, especialmente pessoas ambiciosas e de alta performance, precisamos de alguém  que faça o papel de coach, de coach de equipe, para que aconteça. Qualquer empresa que queira ser bem-sucedida em um momento em que a tecnologia já mandou todos os setores e a maioria dos aspectos da vida do consumidor, no qual a velocidade e a inovação são fundamentais, deve ter o coaching de equipe como parte de sua cultura. E isso é especialmente verdadeiro nos níveis mais altos; as equipes executivas devem ter um coach para ter o melhor desempenho.
 
 
-####Então pessoal, minha síntese normalmente é uma inspiração que senti em cada trecho do livro e fui retirando algumas frases que me marcaram muito.
-####Recomendo fortemente a leitura do livro, pois além do mesmo, ajudar na aprendizagem profissional, ajudará muito na aprendizagem pessoal.
+#### Então pessoal, minha síntese normalmente é uma inspiração que senti em cada trecho do livro e fui retirando algumas frases que me marcaram muito.
+#### Recomendo fortemente a leitura do livro, pois além do mesmo, ajudar na aprendizagem profissional, ajudará muito na aprendizagem pessoal.
+#### Na imagem possui o link para compra do livro caso deseje realizar a compra.
