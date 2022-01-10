@@ -13,29 +13,26 @@ E tenho de concordar que o livro superou e muito minhas expectativas em relaçã
 ## Capítulo 1 — O Caddie e o Ceo
 
 <p>O primeiro capítulo é uma homenagem a Bill Campbell e todo o seu trabalho com vários CEOS do Vale do Silício, 
-mas um ponto importante e de muito destaque nesse capítulo foi: Bill como um coach não focava apenas nos CEOS 
-ou nas pessoas importantes com o qual ele trabalhava, mas sim nas equipes para que todos possuissem o mesmo nível de 
+mas um ponto importante e de muito destaque nesse capítulo foi: Bill como um coach que não focava apenas nos CEOS 
+ou nas pessoas importantes com o qual ele trabalhava, mas sim nas equipes para que todos possuíssem o mesmo nível de 
 conhecimento e pudessem evoluir por igual.</p>
 <p>Os fundamentos de coach do Bill vieram do futebol americano, onde passou parte de sua vida envolvido, 
 começando como jogador, tornando mais tarde técnico assistente e em sequência técnico. Como jogador era reconhecido 
 por sua garra contra os adversários que eram maiores que ele, mas isso não o impedia de jogar de igual para igual com 
 os mesmos, sempre que caia se levantava novamente com mais garra para enfrentá-los.</p>
 <p>Como treinador não teve muito sucesso, mas pelos times que passou ficou reconhecido por sua compaixão com os atletas, 
-pois se importava mais com a pessoa do que o profissional/atleta. Ou seja, o atleta deveria ser bem-sucedido na sua vida pessoal,
- mais do que no campo.</p>
+pois se importava mais com a vida pessoal do que com o profissional/atleta. Ou seja, o atleta deveria ser 
+bem-sucedido na sua vida pessoal, mais do que no campo.</p>
 
-Frases de destaque para mim, conforme o meu momento atual de vida (Vou deixar em negrito as que achei o que 
-mais impacto para mim):
-- ser um bom coach é essencial para ser um bom líder.
-- **Quanto mais você sobe, mais o seu sucesso depende de fazer com que outras pessoas 
-sejam bem sucedidas.**
+Frases de destaque para mim, conforme o meu momento atual de vida (Vou deixar em negrito as que achei o que me impactou):
+- Ser um bom coach é essencial para ser um bom líder.
+- **Quanto mais você sobe, mais o seu sucesso depende de fazer com que outras pessoas sejam bem sucedidas.**
 - As equipes do Google tinham segurança psicológica (as pessoas sabiam que, se assumissem riscos, o seu gestor as protegeria), 
 metas claras, pois cada papel, era significativo, e os membros eram confiáveis e convictos de que a missão da equipe 
 faria diferença.
-- Um estudo de 2014 descobriu que os gestores mais inseguros são os que se sentem ameaçados 
-pelas sugestões de outros.
-- **E um componente essencial de equipes de alta performance é um líder que é um tanto 
-um gestor experiente quanto um coach atencioso.**
+- Um estudo de 2014 descobriu que os gestores mais inseguros são os que se sentem ameaçados pelas sugestões de outros.
+- **E um componente essencial de equipes de alta performance é um líder que é um tanto um gestor experiente quanto 
+um coach atencioso.**
 
 
 ## Capítulo 2 — Seu título faz de você um gestor. Seu pessoal faz de você um líder.
@@ -43,31 +40,32 @@ um gestor experiente quanto um coach atencioso.**
 Nesse capítulo, Bill nos ensina como ser líder, como devemos tratar corretamente cada perfil 
 que a equipe possui e assim o líder conquista a confiança do seu time para evoluírem cada vez mais.
 
-Frases de destaque para mim, de acordo com meu momento atual de vida:
+Frases que destacaria :
+
 - A professora Linda Hill, da Harvard Business School, que estuda gestão e especialmente gestores de primeira viagem, 
 concorda que ser ditador não funciona. Ela escreveu em 2007: **"Novos gestores logo aprendem[...] que, quando mandam seus 
 subordinados fazerem algo, estes não necessariamente respondem. Na verdade, quanto mais talentoso for o subordinado, 
-menor a probalidade de ele simplesmente seguir ordens"**. A autoridade de um gestor, conclui, 
+menor a probabilidade de ele simplesmente seguir ordens"**. A autoridade de um gestor, conclui, 
 "emerge apenas quando ele estabelece credibilidade com os subordinados, pares e superiores". 
 (Outro estudo conclui que as pessoas não só se irritam com um estilo de gestão autoritário, mas também ficam mais 
 propensas a abandonar a equipe). Ou, como Bill gostava de dizer: **Se você for um ótimo gestor, o seu pessoal fará de você 
-um líder. Eles o elegem, não você"**.
+um líder. Eles o elegem, não você" **.
 
 - **São as pessoas: as pessoas são a base do sucesso de qualquer empresa. O principal trabalho de cada gestor é ajudá-las 
-a ser mais eficientes no seu trabalho e a crescer e ser desenvolver. Temos pessoas ótimas que querem se sair bem, 
-que são capazes de fazer grandes coisas e que chegam ao trabalho pronto para isso. Grandes indivíduos florescem em um 
-ambiente que libera e amplifica essa energia. Os gestores criam esse ambiente por meio de apoio, respeito e confiança.** 
+a ser mais eficientes no seu trabalho e a crescer e se desenvolver. Temos pessoas ótimas que querem se sair bem, 
+capazes de fazer grandes coisas e que chegam ao trabalho pronto para isso. Grandes indivíduos florescem em um 
+ambiente que libera e amplifica essa energia. Os gestores criam esse ambiente por apoio, respeito e confiança.** 
 
-- Apoio significa fornecer às pessoas as ferramentas, as informações, o treinamento e o coaching necessários para os sucessos. 
-Isso implica um esforço contínuo para desenvolver as habilidades delas. Grandes gestores ajudam os outros a se destacar e a crescer. 
+- Apoio significa fornecer às pessoas as ferramentas, as informações, o treinamento e o coaching necessários para o sucesso. 
+Isso implica em um esforço contínuo para desenvolver as habilidades delas. Grandes gestores ajudam os outros a se destacar e a crescer. 
 Respeito significa entender os objetivos de carreira únicos de cada pessoa e ser sensível a suas escolhas de vida. Isso implica 
 ajuda-las a atingir suas metas de carreira de uma maneira consistente com as necessidades da empresa. Confiança significa libertar 
-as pessoas para fazerem seu trabalho e tome decisões. Significa saber que elas querem se sair bem e acreditam que o farão.
+as pessoas para fazerem seu trabalho e tomarem decisões. Significa saber que elas querem se sair bem e acreditam que o farão.
 
-- "O que não deixa você dormir?" é uma pergunta tradicional feita aos executivos. Para Bill a resposta era sempre a mesma : 
+- "O que não deixa você dormir?" é uma pergunta tradicional feita aos executivos. Para Bill a resposta era sempre a mesma: 
 o bem-estar e o sucesso de seu pessoal.
 
-- São as pessoas: A maior prioridade de qualquer gestor é o bem-estar e o sucesso de seu pessoal.
+- **São as pessoas: A maior prioridade de qualquer gestor é o bem-estar e o sucesso de seu pessoal.**
 
 - De fato, um estudo de 2002 da Southern Methodist University mostra que saber o que compartilhar e comunicar e com quem 
 é uma parte importante de um gestor.
@@ -88,7 +86,7 @@ a melhor maneira de ajudar as pessoas a ser mais eficazes e crescer.
 - Você está orientando / dando coaching a seu pessoal?
 - Você está eliminando os ruins ?
 - Você está se esforçando para contratar?
-- Você consegue que seu pessoal realiza feitos heroicos?
+- Você consegue que seu pessoal realize feitos heroicos?
 
 ### Inovação (melhores práticas)
 - Você está sempre andando para frente... pensando em como melhorar continuamente?
@@ -100,12 +98,12 @@ juntas pela melhor solução, e normalmente elas voltavam uma ou duas semanas de
 
 - O trono por trás da mesa redonda: O trabalho do gestor é dirigir um processo de tomada de decisão que garanta que 
 todas perspectivas sejam consideradas e se necessário, dar o voto de minerva e tomar a decisão.
-- 
+
 - Lidere com base nos princípios fundamentais: defina os "princípios fundamentais" para a situação, verdades imutáveis 
 que são os alicerces da empresa ou do produto, e ajude a guiar a decisão com base nesses princípios.
 
 - "Agora que você já deu todo o apoio, tem que tentar fazer com que ele se comporte como líder. Ele tem todo o seu espaço. 
-Não há mais o que discutir."
+Não há mais o que discutir." (Descontextualizada)
 
 - Administre o Gênio Aberrante: Gênios Aberrantes — Membros da equipe de alta performance, mas difíceis — Devem ser 
 tolerados e até protegidos, desde que seu comportamento não seja antiético ou abusivo e seu valor compense os danos que 
@@ -126,15 +124,15 @@ os recursos necessários. Eles vão lhe apresentar uma solução muito melhor do
 - É na área de inovação que gente maluca ganham asas — O objetivo de uma empresa é dar vida à visão de um produto. 
 Todos os outros componentes estão a serviço do produto.
 
-- De cabeça erguida - Se tiver que deixar que as pessoas saiam da empresa, seja generoso, trate-as bem e celebre suas realizações.
+- De cabeça erguida — Se tiver que deixar que as pessoas saiam da empresa, seja generoso, trate-as bem e celebre suas realizações.
 
 - Pontos abordados neste capítulo: excelência operacional, pondo as pessoas em primeiro lugar, sendo decidido, comunicando-se bem, 
-sabendo como tirar o máximo proveito das pessoas mais desafiadoras, focando a excelência do produto e tratando bem os funcionários 
-- demitidos.
+sabendo como tirar o máximo de proveito das pessoas mais desafiadoras, focando a excelência do produto e tratando bem os funcionários 
+demitidos.
 
 ## Capitulo 3 — Construa um envoltório de confiança
-  Nesse capítulo passamos por vários pontos que onde Bill, nos ensina através de exemplo ganhar a confiança do time com 
-  várias situações diferentes.
+  Nesse capítulo passamos por vários pontos onde Bill, nos ensina através de exemplo, ganhar a confiança do time com 
+várias situações diferentes.
 
 - Um artigo acadêmico define a confiança como "a disposição de aceitar vulnerabilidades com base em expectativas positivas 
 sobre o comportamento de outras pessoas". Isso é bastante acadêmico, porém captura o ponto essencial: confiança significa 
@@ -143,7 +141,7 @@ que as pessoas se sentem seguras para ser vulneráveis.
 - Uma coisa importante: confiar não significa sempre concordar; na verdade, fica mais fácil discordar de alguém em quem você confia.
 
 - Uma série de pesquisas acadêmicas confirma o que Bill intuitivamente sabia: não só que a confiança é importante, 
-mas que é a primeira ociosa a ser criada se você quiser que um relacionamento seja bem-sucedido.
+mas que é a primeira coisa a ser criada se você quiser que um relacionamento seja bem-sucedido.
 
 - Estabelecer confiança é um componente-chave para construir o que agora é chamada "segurança psicológica" nas equipes. 
 A segurança psicológica da equipe, segundo o estudo de 1999 da Cornell, é uma "crença compartilhada pelos membros de uma 
@@ -160,11 +158,11 @@ quem sempre soube que poderia ser".
 - Só dê coaching a quem estiver aberto a isso: as características de uma pessoa aberta ao coaching são honestidade e humildade, 
 disposição para perseverar e trabalhar duro, e uma abertura constante ao aprendizado.
 
-- Pratique a escuta livre — ouça as pessoas com sua atenção completa e indivisa — não pense no que vai dizer depois - 
-e faça perguntas que levem ao problema real.
+- **Pratique a escuta livre — ouça as pessoas com sua atenção completa e indivisa — não pense no que vai dizer depois — 
+e faça perguntas que levem ao problema real.**
 
 - Empatia assertiva: como ser um líder incisivo sem perder a humanidade, diz que ser um bom chefe significa "dizer o que 
-você realmente pensa de uma forma que permita qye as pessoas saibam que se importa com elas".
+você realmente pensa de uma forma que permita que as pessoas saibam que se importa com elas".
 
 - Nada de lacunas entre palavras e fatos — seja implacavelmente honesto e franco, associe feedback negativo com carinho, 
 dê o feedback assim que possível e, se for negativo, faça-o em particular.
@@ -180,7 +178,7 @@ as melhores decisões para si mesmas.
 - Quando podem ser autênticas por completo a ponto de mostrar seu verdadeiro eu no trabalho, são mais respeitadas por seus colegas 
 e valorizam mais quando os outros fazem o mesmo.
 
-- Identidade plena à frente e no centro — As pessoas são mais eficazes quando podem ser totalmente autenticas e levar sua
+- Identidade plena à frente e no centro — As pessoas são mais eficazes quando podem ser totalmente autênticas e levar sua
 identidade plena no trabalho.
 
 ## Capitulo 4 — A equipe em primeiro lugar
@@ -190,14 +188,15 @@ identidade plena no trabalho.
 - Foque a equipe, depois o problema — Ao se confrontar com um problema ou oportunidade, o primeiro passo é garantir que 
 a equipe certa esteja trabalhando no assunto.
 
-- Características tão difíceis de definir: grit. A capacidade de levar um tombo e ter a paixão e a perseverança necessárias 
-para se levantar e ir à luta de novo.
+- **Características tão difíceis de definir: grit. A capacidade de levar um tombo e ter a paixão e a perseverança necessárias 
+para se levantar e ir à luta de novo.**
 
-- Os coaches mais eficazes toleram e até encorajam toleram e até encorajam certo nível de excentricidade e "instabilidade" 
-nos membros de sua equipe. Aqueles que se destacam, desde atletas até fundadores de empresas e executivos, em geral, são "difíceis". 
+- Os coaches mais eficazes toleram e até encorajam certo nível de excentricidade e "instabilidade" nos membros de sua equipe. 
+
+- Aqueles que se destacam, desde atletas até fundadores de empresas e executivos, em geral, são "difíceis". 
 Mas você os quer em sua equipe.
 
-- Individuais que chegam, trabalham duro e provocaram um impacto a cada dia. Executores.
+- Indivíduos que chegam, trabalham duro e provocam um impacto a cada dia. São Executores.
 
 - Inteligência, trabalho duro, integridade e grid — Perseverança.
 
@@ -210,7 +209,7 @@ trabalhem por conta própria. Isso cria confiança entre duas pessoas, em geral,
 - Emparelhe pessoas — relações entre pares são cruciais e muitas vezes menosprezadas, portanto, busque oportunidades 
 para emparelhar pessoas em projetos ou decisões.
 
-- Sente-se à mesa — Ganhar depende de ter a melhor equipe, e a melhor equipe tem mais mulheres.
+- **Sente-se à mesa — Ganhar depende de ter a melhor equipe, e a melhor equipe tem mais mulheres.**
 
 - Resolva o maior problema - Identifique o maior problema, o "elefante na sala", leve-o para frente e para o centro e enfrente-o primeiro.
 
@@ -220,7 +219,8 @@ para emparelhar pessoas em projetos ou decisões.
 
 - Treinamento positivo, de liderar com elogios e depois seguir com um feedback construtivo.
 
-- Não deixe as queixas durarem muito tempo — exponha todos os aspectos negativos, mas não se demore neles. Siga em frente o mais rápido possível.
+- Não deixe as queixas durarem muito tempo — exponha todos os aspectos negativos, mas não se demore neles. Siga em frente 
+o mais rápido possível.
 
 - Vença direito — esforce-se para ganhar, mas sempre ganhe direito, com compromisso, trabalho de equipe e integridade.
 
@@ -231,8 +231,7 @@ porque, se não estiver totalmente comprometido, as pessoas ao seu redor também
 
 - Preencha as lacunas entre as pessoas — ouça, observe e preencha as lacunas de comunicação e entendimento entre as pessoas.
 
-- Como estava a família de Bradley? Qual era a sua motivação? A abordagem de Bill era fazer a conexão humana primeiro e, depois,
-com esse entendimento, focar o trabalho.
+- A abordagem de Bill era fazer a conexão humana primeiro e, depois, com esse entendimento, focar o trabalho.
 
 - Permissão para ser empático — liderar equipes fica mais agradável, e a equipe, mais eficaz, 
 quando você conhece as pessoas e se importa com elas.
@@ -245,9 +244,8 @@ quando você conhece as pessoas e se importa com elas.
 construir sua reputação de competência.
 
 - As pesquisas acadêmicas, como de costume, confirmam isso, mostrando que uma organização rica no "amor companheiro" 
-que bill demonstrava (interesse, afeto) terá funcionários mais satisfeitos e mais trabalho em equipe, menos absentismo e melhor desempenho dos times.
-
-- "Para se importar como as pessoas, você tem que se importar com as pessoas".
+que Bill demonstrava (interesse, afeto) terá funcionários mais satisfeitos e mais trabalho em equipe, 
+menos absentismo e melhor desempenho dos times.
 
 - Conheça a família de sua equipe.
 
@@ -256,7 +254,8 @@ entenda sua família e, quando coisas ruins acontecerem, dê as caras.
 
 - O aplauso Bill Campbell - ovacione as pessoas e seu sucesso.
 
-- Construa comunidades sempre — construa comunidades dentro e fora do trabalho. Um lugar é muito mais forte quando as pessoas estão conectadas.
+- Construa comunidades sempre — construa comunidades dentro e fora do trabalho. Um lugar é muito mais forte quando as 
+pessoas estão conectadas.
 
 - Ajude as pessoas — Seja generoso com seu tempo, conexões e outros recursos.
 
@@ -270,10 +269,17 @@ entenda sua família e, quando coisas ruins acontecerem, dê as caras.
 
 ## Capítulo 6 — O critério
 
-- Para ter sucesso, as empresas precisam ter equipes que trabalhem juntas como comunidades, nas quais os membros integrem seus interesses e deixem de lado as diferenças para serem individual e coletivamente obcecados por aquilo que é bom e correto para empresa. Como isso não acontece de maneira natural entre grupos de pessoas, especialmente pessoas ambiciosas e de alta performance, precisamos de alguém  que faça o papel de coach, de coach de equipe, para que aconteça. Qualquer empresa que queira ser bem-sucedida em um momento em que a tecnologia já mandou todos os setores e a maioria dos aspectos da vida do consumidor, no qual a velocidade e a inovação são fundamentais, deve ter o coaching de equipe como parte de sua cultura. E isso é especialmente verdadeiro nos níveis mais altos; as equipes executivas devem ter um coach para ter o melhor desempenho.
+- Para ter sucesso, as empresas precisam ter equipes que trabalhem juntas como comunidades, nas quais os membros integrem 
+seus interesses e deixem de lado as diferenças para serem individual e coletivamente obcecados por aquilo que é bom 
+e correto para empresa. Como isso não acontece de maneira natural entre grupos de pessoas, especialmente pessoas 
+ambiciosas e de alta performance, precisamos de alguém que faça o papel de coach, de coach de equipe, para isso acontecer. 
+Qualquer empresa que queira ser bem-sucedida em um momento em que a tecnologia já mudou todos os setores e a maioria dos 
+aspectos da vida do consumidor, onde a velocidade e a inovação são fundamentais, deve ter o coaching de equipe como parte de 
+sua cultura. E isso é especialmente verdadeiro nos níveis mais altos; as equipes executivas devem ter um coach para ter 
+o melhor desempenho.
 
 <br><br>
 
-<em>Então pessoal, minha síntese normalmente é uma inspiração que senti em cada trecho do livro e fui retirando algumas frases que me marcaram muito.</em>
-<em>Recomendo fortemente a leitura do livro, pois além do mesmo, ajudar na aprendizagem profissional, ajudará muito na aprendizagem pessoal.</em>
-<em>Na imagem possui o link para compra do livro caso deseje realizar a compra.</em>
+<em>Então pessoal, minha síntese normalmente é uma inspiração que senti em cada trecho do livro e fui retirando algumas frases que me marcaram.</em>
+<em>Recomendo fortemente a leitura do livro, pois além do mesmo, ajudar na aprendizagem profissional, lhe dar[a uma visão diferente de equipe.</em>
+<em>Na imagem possui o link para compra do livro.</em>
